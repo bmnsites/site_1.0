@@ -1,3 +1,6 @@
 body {
-  background: teal;
+  background: gray;
+}
+canvas {
+  background: white;
 }
